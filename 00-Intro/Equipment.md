@@ -29,13 +29,13 @@
 
 | № | Наименование | Кол-во | Цена за ед. (руб.) | Сумма (руб.) | Ссылка DNS |
 |---|---|---|---|---|---|
-| 1 | Коммутатор TP-Link TL-SG1024D (24 порта, Gigabit, неуправляемый) | 7 | 5 490 | 38 430 | https://www.dns-shop.ru/product/ba37c9e03fa91e77/ |
-| 2 | Маршрутизатор MikroTik RB750Gr3 (hEX, 5x Gigabit) | 1 | 7 290 | 7 290 | https://www.dns-shop.ru/product/5b2b09d33fb91e77/ |
-| 3 | Точка доступа TP-Link EAP225 (AC1200, 802.11ac, потолочная) | 1 | 4 490 | 4 490 | https://www.dns-shop.ru/product/a1c9f3f03a9e1e77/ |
-| 4 | Патч-корд UTP Cat5e 3м (для подключения ПК) | 105 | 150 | 15 750 | https://www.dns-shop.ru/catalog/17a8d47416404e77/patch-kordy/ |
-| 5 | Патч-корд UTP Cat5e 1м (uplink коммутаторов к роутеру) | 7 | 100 | 700 | https://www.dns-shop.ru/catalog/17a8d47416404e77/patch-kordy/ |
-| 6 | Патч-панель 24 порта Cat5e 1U | 7 | 2 190 | 15 330 | https://www.dns-shop.ru/catalog/17a8d57616404e77/ |
-| 7 | ИБП APC Back-UPS 650VA (для коммутаторов и роутера) | 8 | 6 990 | 55 920 | https://www.dns-shop.ru/catalog/17a8975416404e77/istochniki-besperebojnogo-pitaniya/ |
+| 1 | Коммутатор TP-Link TL-SG1024D (24 порта, Gigabit, неуправляемый) | 7 | 5 490 | 38 430 | [DNS](https://www.dns-shop.ru/product/ba37c9e03fa91e77/) |
+| 2 | Маршрутизатор MikroTik RB750Gr3 (hEX, 5x Gigabit) | 1 | 7 290 | 7 290 | [DNS](https://www.dns-shop.ru/product/5b2b09d33fb91e77/) |
+| 3 | Точка доступа TP-Link EAP225 (AC1200, 802.11ac, потолочная) | 1 | 4 490 | 4 490 | [DNS](https://www.dns-shop.ru/product/a1c9f3f03a9e1e77/) |
+| 4 | Патч-корд UTP Cat5e 3м (для подключения ПК) | 105 | 150 | 15 750 | [DNS](https://www.dns-shop.ru/catalog/17a8d47416404e77/patch-kordy/) |
+| 5 | Патч-корд UTP Cat5e 1м (uplink коммутаторов к роутеру) | 7 | 100 | 700 | [DNS](https://www.dns-shop.ru/catalog/17a8d47416404e77/patch-kordy/) |
+| 6 | Патч-панель 24 порта Cat5e 1U | 7 | 2 190 | 15 330 | [DNS](https://www.dns-shop.ru/catalog/17a8d57616404e77/) |
+| 7 | ИБП APC Back-UPS 650VA (для коммутаторов и роутера) | 8 | 6 990 | 55 920 | [DNS](https://www.dns-shop.ru/catalog/17a8975416404e77/istochniki-besperebojnogo-pitaniya/) |
 
 ---
 
